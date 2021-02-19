@@ -1,11 +1,9 @@
 [
     {
-        "date": "2020-05-10T10:00:00",
-        "author" : "elgor",
         "title" : "ainsi parla elgor",
+        "author" : "elgor",      
         "editor" : "ghost",
         "resume" : "Oula!",
-        "year" : "1984",
-        "note_fr" : ""
+        "year" : "1984"
     }
 ]
