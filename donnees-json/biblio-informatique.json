@@ -1,19 +1,9 @@
-{
-    "books": [
-        {
+[   
+   {
         "title" : "ainsi parla elgor",
         "author" : "elgor",      
         "editor" : "ghost",
         "resume" : "Oula!",
         "year" : "1984"
-    },
-    {
-        "title" : "Swift",
-        "author" : "elgor",      
-        "editor" : "fgoraz",
-        "resume" : "Oula!",
-        "year" : "1984"
-    }
-        
-    ]
-}
+    }      
+ ]
