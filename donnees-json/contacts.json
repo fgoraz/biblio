@@ -1,5 +1,4 @@
-{  
-   "countries": [
+[
    {  
       "id":1,
       "countryName":"Senegal",
@@ -8,7 +7,7 @@
    {  
       "id":4,
       "countryName":"China",
-      "pib":"quinze",
+      "pib":"quinze"
    },
    {  
       "id":3,
@@ -20,5 +19,4 @@
       "countryName":"Bhutan",
       "pib":"six"
    }
- ]
-}
+]
