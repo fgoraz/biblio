@@ -1,22 +1,18 @@
-[
+[  
    {  
       "id":1,
-      "countryName":"Senegal",
-      "pib":"treize"
+      "countryName":"India"
    },
    {  
       "id":4,
-      "countryName":"China",
-      "pib":"quinze"
+      "countryName":"China"
    },
    {  
       "id":3,
-      "countryName":"Nepal",
-      "pib":"douze"
+      "countryName":"Nepal"
    },
    {  
       "id":2,
-      "countryName":"Bhutan",
-      "pib":"six"
+      "countryName":"Bhutan"
    }
 ]
