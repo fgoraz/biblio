@@ -1,6 +1,6 @@
 [  
    {  
-      "kindof":"roman",
+      "date":"2020-05-10T10:00:00",
       "title":"Senegal", 
       "author":"Fgoraz",           
       "resume":"Ainsi parla Fgoraz",      
@@ -8,7 +8,7 @@
       "year":"1984"
    },
    {  
-      "kindof":"roman", 
+      "date":"2020-05-11T10:00:00", 
       "title":"France",  
       "author":"Nietsche",                
       "resume":"Ainsi parla Zaratustra",      
@@ -16,7 +16,7 @@
       "year":"2000"
    },
    {  
-      "kindof":"poesie", 
+      "date":"2020-05-12T10:00:00", 
       "title":"USA", 
       "author":"Mariama Ba",                 
       "resume":"Une si longue lettre",      
@@ -24,7 +24,7 @@
       "year":"1992"
    },
    { 
-      "kindof":"poesie", 
+      "date":"2020-05-13T10:00:00", 
       "title":"Nigeria",   
       "author":"Achebe",     
       "resume":"Wonderful world",      
@@ -32,7 +32,7 @@
       "year":"1954"
    },
    {  
-      "kindof":"roman", 
+      "date":"2020-05-14T10:00:00", 
       "title":"South Africa",
       "author":"Mandela",        
       "resume":"What goes around",      
