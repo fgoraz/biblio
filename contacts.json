@@ -1,0 +1,42 @@
+[  
+   {  
+      "kindof":"roman",
+      "title":"Senegal", 
+      "author":"Fgoraz",           
+      "resume":"Ainsi parla Fgoraz",      
+      "editor":"treize",
+      "year":"1984"
+   },
+   {  
+      "kindof":"roman", 
+      "title":"France",  
+      "author":"Nietsche",                
+      "resume":"Ainsi parla Zaratustra",      
+      "editor":"la Mousson",
+      "year":"2000"
+   },
+   {  
+      "kindof":"poesie", 
+      "title":"USA", 
+      "author":"Mariama Ba",                 
+      "resume":"Une si longue lettre",      
+      "editor":"Alizee",
+      "year":"1992"
+   },
+   { 
+      "kindof":"poesie", 
+      "title":"Nigeria",   
+      "author":"Achebe",     
+      "resume":"Wonderful world",      
+      "editor":"Homeview",
+      "year":"1954"
+   },
+   {  
+      "kindof":"roman", 
+      "title":"South Africa",
+      "author":"Mandela",        
+      "resume":"What goes around",      
+      "editor":"Welcome",
+      "year":"1991"
+   }
+]
