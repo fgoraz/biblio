@@ -1,7 +1,7 @@
 [  
    {  
       "date":"2020-05-10T10:00:00",
-      "title":"À la recherche du temps perdu", 
+      "title":"À la recherche du temps perdu.", 
       "author":"Marcel Proust",           
       "resume":"En considérant ce découpage, son écriture et sa publication se sont faites parallèlement, et la conception même que Proust avait de son roman a évolué au cours de ce processus.",      
       "editor":"Bernard Grasset et Gallimard",
@@ -9,23 +9,23 @@
    },
    {  
       "date":"2020-05-11T10:00:00", 
-      "title":"France",  
+      "title":"Ainsi parla Zaratustra",  
       "author":"Nietsche",                
-      "resume":"Ainsi parla Zaratustra",      
+      "resume":"Zaratustra reçut la lumière",      
       "editor":"la Mousson",
       "year":"2000"
    },
    {  
       "date":"2020-05-12T10:00:00", 
-      "title":"USA", 
+      "title":"Une si longue lettre.", 
       "author":"Mariama Ba",                 
-      "resume":"Une si longue lettre",      
+      "resume":"Mariama Bâ, femme écrivaine sénégalaise",      
       "editor":"Alizee",
       "year":"1992"
    },
    { 
       "date":"2020-05-14T10:00:00", 
-      "title":"Nigeria",   
+      "title":"L'or du capitaine Wachabé",   
       "author":"Achebe",     
       "resume":"Wonderful world",      
       "editor":"Homeview",
@@ -33,16 +33,16 @@
    },
    { 
       "date":"2020-05-14T10:00:00", 
-      "title":"Nigeria",   
-      "author":"Elgor the king",     
-      "resume":"Wonderful world",      
-      "editor":"Homeview",
+      "title":"Nuit de Sine",   
+      "author":"L. S. Senghor",     
+      "resume":"Voici que décline la lune lasse vers son lit de mer, étale.",      
+      "editor":"EGS",
       "year":"1954"
    },
    {  
       "date":"2020-05-14T10:00:00", 
       "title":"South Africa",
-      "author":"Abdou Diouf",        
+      "author":"Mandela",        
       "resume":"What goes around",      
       "editor":"Welcome",
       "year":"1993"
