@@ -1,0 +1,14 @@
+[  
+   {  
+      "date":"2020-05-10T10:00:00",
+      "title":"À la recherche du temps perdu.", 
+      "code_region": 1,
+      "origine":"europeenne",
+      "genre":"roman",
+      "author":"Marcel Proust",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1913-1927"
+   }
+]   
+ 
