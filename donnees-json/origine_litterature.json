@@ -1,11 +1,33 @@
-[
-  {  
-      "date":"2020-05-14T10:00:00", 
-      "title":"South Africa",
-      "origine":"europeenne", 
-      "author":"Mandela",        
-      "resume":"What goes around",      
-      "editor":"Welcome",
-      "year":"1993"
+  
+[  
+   {  
+      "date":"2020-05-10T10:00:00",
+      "title":"À la recherche du temps perdu.", 
+      "code_region": 1,
+      "nom_region":"europeenne",
+      "author":"Marcel Proust",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1913-1927"
+   },
+    {  
+      "date":"2020-05-10T10:00:00",
+      "title":"À la recherche du temps perdu.", 
+      "code_region": 1,
+      "nom_region":"europeenne",
+      "author":"Marcel Proust",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1927"
+   },
+    {  
+      "date":"2020-05-10T10:00:00",
+      "title":"À la recherche du temps perdu.", 
+      "code_region": 1,
+      "nom_region":"europeenne",
+      "author":"Marcel Proust",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1913"
    }
-]
+]  
