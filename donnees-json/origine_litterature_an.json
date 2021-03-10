@@ -1,0 +1,32 @@
+[
+  {  
+      "date":"2020-05-10T11:00:00",
+      "title":"À la recherche de elgor", 
+      "code_region": 2,
+      "origine":"ANGLAISE",
+      "author":"elgor",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1984"
+   },
+   {  
+      "date":"2020-05-10T10:00:00",
+      "title":"Hellow dolly", 
+      "code_region": 2,
+      "origine":"ANGLAISE",
+      "author":"Marcel Proust",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1927"
+   },
+   {  
+      "date":"2020-05-10T10:00:00",
+      "title":"Salut SNG", 
+      "code_region": 2,
+      "origine":"ANGLAISE",
+      "author":"Marcel Proust",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1916"
+   }
+]
