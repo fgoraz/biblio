@@ -2,6 +2,7 @@
    {  
       "date":"2020-05-10T10:00:00",
       "title":"À la recherche de ELGOR", 
+      "origine":"europeenne",
       "author":"Marcel Proust",           
       "resume":"En considérant ce découpage, son écriture et sa publication se sont faites parallèlement, et la conception même que Proust avait de son roman a évolué au cours de ce processus.",      
       "editor":"Bernard Grasset et Gallimard",
@@ -9,7 +10,8 @@
    },
    {  
       "date":"2020-05-11T10:00:00", 
-      "title":"Ainsi parla Zaratustra",  
+      "title":"Ainsi parla Zaratustra", 
+       "origine":"europeenne",
       "author":"Nietsche",                
       "resume":"Zaratustra reçut la lumière",      
       "editor":"la Mousson",
