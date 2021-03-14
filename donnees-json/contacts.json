@@ -1,50 +1,26 @@
 [  
    {  
-      "kindof":"roman",
-      "title":"À la recherche de ELGOR", 
+      "date":"2020-05-10T10:00:00",
+      "title":"À la demeure de mon ex", 
       "author":"Marcel Proust",           
-      "resume":"En considérant ce découpage, son écriture et sa publication se sont faites parallèlement, et la conception même que Proust avait de son roman a évolué au cours de ce processus.",      
+      "resume":"Hellow Proust",      
       "editor":"Bernard Grasset et Gallimard",
-      "year":"1984"
+      "year":"1913-1927"
    },
    {  
-      "kindof":"roman",
-      "title":"Ainsi parla Zaratustra", 
-      "author":"Nietsche",                
-      "resume":"Zaratustra reçut la lumière",      
-      "editor":"la Mousson",
-      "year":"2000"
+      "date":"2020-05-10T10:00:00",
+      "title":"À la demeure de mon ex", 
+      "author":"Marcel Proust",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1913-1927"
    },
    {  
-      "kindof":"roman", 
-      "title":"Une si longue lettre.", 
-      "author":"Mariama Ba",                 
-      "resume":"Mariama Bâ, femme écrivaine sénégalaise",      
-      "editor":"Alizee",
-      "year":"1992"
-   },
-   { 
-      "kindof":"poesie", 
-      "title":"L'or du capitaine Wachabé",   
-      "author":"Achebe",     
-      "resume":"Wonderful world",      
-      "editor":"Homeview",
-      "year":"1954"
-   },
-   { 
-      "kindof":"theatre", 
-      "title":"Nuit de Sine",   
-      "author":"L. S. Senghor",     
-      "resume":"Voici que décline la lune lasse vers son lit de mer, étale.",      
-      "editor":"EGS",
-      "year":"1954"
-   },
-   {  
-      "kindof":"fable", 
-      "title":"South Africa",
-      "author":"Mandela",        
-      "resume":"What goes around",      
-      "editor":"Welcome",
-      "year":"1993"
+      "date":"2020-05-10T10:00:00",
+      "title":"À la demeure de mon ex", 
+      "author":"Marcel Proust",           
+      "resume":"Hellow Proust",      
+      "editor":"Bernard Grasset et Gallimard",
+      "year":"1913-1927"
    }
-]
+]  
