@@ -2,8 +2,6 @@
   {  
       "date":"2020-05-10T11:00:00",
       "title":"À la recherche de elgor", 
-      "code_region": 3,
-      "origine":"AMERICAINE",
       "author":"Faust",           
       "resume":"Hellow Proust",      
       "editor":"Bernard Grasset et Gallimard",
@@ -12,8 +10,6 @@
    {  
       "date":"2020-05-10T10:00:00",
       "title":"Hellow dolly", 
-      "code_region": 3,
-      "origine":"AMERICAINE",
       "author":"MJ",           
       "resume":"Hellow Proust",      
       "editor":"Goethe",
