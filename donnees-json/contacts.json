@@ -1,6 +1,7 @@
 [  
    {  
       "date":"2020-05-10T10:00:00",
+      "kindof":"roman", 
       "title":"À la demeure de mon ex", 
       "author":"Marcel Proust",           
       "resume":"Hellow Proust",      
@@ -9,6 +10,7 @@
    },
    {  
       "date":"2020-05-10T10:00:00",
+      "kindof":"poesie", 
       "title":"À la demeure de mon ex", 
       "author":"Marcel Proust",           
       "resume":"Hellow Proust",      
@@ -17,6 +19,7 @@
    },
    {  
       "date":"2020-05-10T10:00:00",
+      "kindof":"fable", 
       "title":"À la demeure de mon ex", 
       "author":"Marcel Proust",           
       "resume":"Hellow Proust",      
