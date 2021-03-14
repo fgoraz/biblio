@@ -1,6 +1,7 @@
 [
   {  
       "date":"2020-05-10T11:00:00",
+"kindof":"roman",
       "title":"À la recherche de elgor", 
       "author":"elgor",           
       "resume":"Hellow Proust",      
@@ -9,6 +10,7 @@
    },
    {  
       "date":"2020-05-10T10:00:00",
+"kindof":"theatre",
       "title":"Hellow dolly", 
       "author":"Marcel Proust",           
       "resume":"Hellow Proust",      
@@ -17,6 +19,7 @@
    },
    {  
       "date":"2020-05-10T10:00:00",
+"kindof":"theatre",
       "title":"Salut SNG", 
       "author":"Marcel Proust",           
       "resume":"Hellow Proust",      

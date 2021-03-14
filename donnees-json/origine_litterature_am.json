@@ -1,6 +1,7 @@
 [
   {  
       "date":"2020-05-10T11:00:00",
+"kindof":"poesie",
       "title":"À la recherche de elgor", 
       "author":"Faust",           
       "resume":"Hellow Proust",      
@@ -9,6 +10,7 @@
    },
    {  
       "date":"2020-05-10T10:00:00",
+"kindof":"fable",
       "title":"Hellow dolly", 
       "author":"MJ",           
       "resume":"Hellow Proust",      
