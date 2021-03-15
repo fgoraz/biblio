@@ -1,4 +1,5 @@
-[
+{
+  "cool": [
   {
     "id" : "4",
     "countryName" : "Senegal",
@@ -9,4 +10,23 @@
     "countryName" : "Gambie",
     "pib" : "douze"
   }
-]
+  ],
+ 
+  "cools": [
+  {
+    "id" : "4",
+    "countryName" : "Senegal",
+    "pib" : "treize"
+  },
+  {
+    "id" : "10",
+    "countryName" : "Gambie",
+    "pib" : "douze"
+  },
+  {
+    "id" : "4",
+    "countryName" : "Senegal",
+    "pib" : "treize"
+  }
+  ]
+}
