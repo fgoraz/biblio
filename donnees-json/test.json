@@ -1,5 +1,5 @@
 {
-  "romanArray": [
+  "roman": [
    {  
       "date":"2020-05-10T11:00:00",
       "kindof":"roman",
@@ -56,10 +56,10 @@
    }
   ],
 
-  "roman": [
+  "fable": [
    {  
       "date":"2020-05-10T11:00:00",
-      "kindof":"roman",
+      "kindof":"fable",
       "title":"Bravo Paris", 
       "author":"elgor",           
       "resume":"Dakar à Sénégal",      
@@ -68,12 +68,21 @@
    },
    {  
       "date":"2020-05-10T10:00:00",
-      "kindof":"roman",
+      "kindof":"fable",
       "title":"Nuit de Sine", 
       "author":"Senghor du Sénégal",           
       "resume":"L. S. Senghor",      
       "editor":"Sen TV",
       "year":"1913-1927"
+   },
+{  
+      "date":"2020-05-10T10:00:00",
+      "kindof":"fable",
+      "title":"Pierre et le loup", 
+      "author":"Esope",           
+      "resume":"Esope the greatest",      
+      "editor":"Greek Editor",
+      "year":"1254"
    }
   ]
 }
