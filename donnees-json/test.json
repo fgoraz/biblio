@@ -2,7 +2,7 @@
   "books": 
   {
   "roman": [
-    {"node":"roman"},
+   
     {
       "date": "2020-05-10T11:00:00",
       "kindof": "roman",
@@ -59,7 +59,7 @@
     }
   ],
   "fable": [
-    {"node":"fable"},
+    
     {
       "date": "2020-05-11T11:00:00",
       "kindof": "fable",
