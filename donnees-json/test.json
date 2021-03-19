@@ -1,99 +1,92 @@
 {
-  "books":
+  "books": 
   {
-   "node_roman":{
-     "node":"roman",  
-  
   "roman": [
-   {  
-      "date":"2020-05-10T11:00:00",
-      "kindof":"roman",
-      "title":"À la recherche de elgor", 
-      "author":"elgor",           
-      "resume":"Hellow Proust",      
-      "editor":"Bernard Grasset et Gallimard",
-      "year":"1984"
-   },
-   {  
-      "date":"2020-05-10T10:00:00",
-      "kindof":"roman",
-      "title":"À la demeure de mon ex", 
-      "author":"Marcel Proust",           
-      "resume":"Hellow Proust",      
-      "editor":"Fgoraz",
-      "year":"2007"
-   },
-{  
-      "date":"2020-05-10T10:00:00",
-      "kindof":"roman",
-      "title":"ça mrache tu crois ?", 
-      "author":"V. Hugo",           
-      "resume":"Hellow Victor",      
-      "editor":"Bernard",
-      "year":"1927"
-   },
-{  
-      "date":"2020-05-11T10:00:00",
-      "kindof":"roman",
-      "title":"Voilà Marseille Proust", 
-      "author":"Hein Proust",           
-      "resume":"Hellow Proust",      
-      "editor":"Alizee",
-      "year":"1913-1927"
-   },
-{  
-      "date":"2020-05-11T10:00:00",
-      "kindof":"roman",
-      "title":"Une si longue lettre", 
-      "author":"Mariama Bâ",           
-      "resume":"Mariama dans sa gloire",      
-      "editor":"Gorée",
-      "year":"1985"
-   },
-{  
-      "date":"2020-05-11T10:00:00",
-      "kindof":"roman",
-      "title":"Ainsi va la vie", 
-      "author":"Marcel",           
-      "resume":"un long fleuve tranquille",      
-      "editor":"Gaumont",
-      "year":"1945"
-   }
+    {"node":"roman"},
+    {
+      "date": "2020-05-10T11:00:00",
+      "kindof": "roman",
+      "title": "À la recherche de elgor",
+      "author": "elgor",
+      "resume": "Hellow Proust",
+      "editor": "Bernard Grasset et Gallimard",
+      "year": "1984"
+    },
+    {
+      "date": "2020-05-10T10:00:00",
+      "kindof": "roman",
+      "title": "À la demeure de mon ex",
+      "author": "Marcel Proust",
+      "resume": "Hellow Proust",
+      "editor": "Fgoraz",
+      "year": "2007"
+    },
+    {
+      "date": "2020-05-10T10:00:00",
+      "kindof": "roman",
+      "title": "ça mrache tu crois ?",
+      "author": "V. Hugo",
+      "resume": "Hellow Victor",
+      "editor": "Bernard",
+      "year": "1927"
+    },
+    {
+      "date": "2020-05-11T10:00:00",
+      "kindof": "roman",
+      "title": "Voilà Marseille Proust",
+      "author": "Hein Proust",
+      "resume": "Hellow Proust",
+      "editor": "Alizee",
+      "year": "1913-1927"
+    },
+    {
+      "date": "2020-05-11T10:00:00",
+      "kindof": "roman",
+      "title": "Une si longue lettre",
+      "author": "Mariama Bâ",
+      "resume": "Mariama dans sa gloire",
+      "editor": "Gorée",
+      "year": "1985"
+    },
+    {
+      "date": "2020-05-11T10:00:00",
+      "kindof": "roman",
+      "title": "Ainsi va la vie",
+      "author": "Marcel",
+      "resume": "un long fleuve tranquille",
+      "editor": "Gaumont",
+      "year": "1945"
+    }
+  ],
+  "fable": [
+    {"node":"fable"},
+    {
+      "date": "2020-05-11T11:00:00",
+      "kindof": "fable",
+      "title": "Bravo Paris",
+      "author": "elgor",
+      "resume": "Dakar à Sénégal",
+      "editor": "TFM",
+      "year": "1982"
+    },
+    {
+      "date": "2020-05-10T10:00:00",
+      "kindof": "fable",
+      "title": "Nuit de Sine",
+      "author": "Senghor du Sénégal",
+      "resume": "L. S. Senghor",
+      "editor": "Sen TV",
+      "year": "1913-1927"
+    },
+    {
+      "date": "2020-05-11T10:00:00",
+      "kindof": "fable",
+      "title": "Pierre et le loup",
+      "author": "Esope",
+      "resume": "Esope the greatest",
+      "editor": "Greek Editor",
+      "year": "1254"
+    }
   ]
-  },
-  
-  "node_fable":
-   {
-    "node":"fable",  
-    "fable": [
-   {  
-      "date":"2020-05-11T11:00:00",
-      "kindof":"fable",
-      "title":"Bravo Paris", 
-      "author":"elgor",           
-      "resume":"Dakar à Sénégal",      
-      "editor":"TFM",
-      "year":"1982"
-   },
-   {  
-      "date":"2020-05-10T10:00:00",
-      "kindof":"fable",
-      "title":"Nuit de Sine", 
-      "author":"Senghor du Sénégal",           
-      "resume":"L. S. Senghor",      
-      "editor":"Sen TV",
-      "year":"1913-1927"
-   },
-{  
-      "date":"2020-05-11T10:00:00",
-      "kindof":"fable",
-      "title":"Pierre et le loup", 
-      "author":"Esope",           
-      "resume":"Esope the greatest",      
-      "editor":"Greek Editor",
-      "year":"1254"
-   }
-  ]
-  }
  }
 }
