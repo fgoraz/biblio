@@ -1,6 +1,9 @@
 {
   "books":
   {
+   "node_roman":{
+     "node":"roman",  
+  
   "roman": [
    {  
       "date":"2020-05-10T11:00:00",
@@ -56,8 +59,13 @@
       "editor":"Gaumont",
       "year":"1945"
    }
-  ],
-  "fable": [
+  ]
+  },
+  
+  "node_fable":
+   {
+    "node":"fable",  
+    "fable": [
    {  
       "date":"2020-05-11T11:00:00",
       "kindof":"fable",
@@ -86,5 +94,6 @@
       "year":"1254"
    }
   ]
+  }
  }
 }
