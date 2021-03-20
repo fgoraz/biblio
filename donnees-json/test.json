@@ -87,6 +87,18 @@
       "editor": "Greek Editor",
       "year": "1254"
     }
+  ],
+  "poesie": [
+  
+    {
+      "date": "2020-05-11T10:00:00",
+      "kindof": "poesie",
+      "title": "Lyre à convention",
+      "author": "Conte de Lysle",
+      "resume": "Les fibres même du coeur",
+      "editor": "Ile de France",
+      "year": "1677"
+    }
   ]
  }
 }
