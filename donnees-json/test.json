@@ -98,6 +98,36 @@
       "resume": "Les fibres même du coeur",
       "editor": "Ile de France",
       "year": "1677"
+    },
+    {
+      "date": "2020-05-11T10:00:00",
+      "kindof": "poesie",
+      "title": "le tour du monde",
+      "author": "jules vernes",
+      "resume": "philleas frog",
+      "editor": "ouest france",
+      "year": "1684"
+    }
+  ],
+  "theatre": [
+  
+    {
+      "date": "2020-05-11T10:00:00",
+      "kindof": "theatre",
+      "title": "le malade imaginaire",
+      "author": "molière",
+      "resume": "gargantua",
+      "editor": "gazette",
+      "year": "1677"
+    },
+    {
+      "date": "2020-05-11T10:00:00",
+      "kindof": "theatre",
+      "title": "william tell overture",
+      "author": "rossini",
+      "resume": "classical music",
+      "editor": "east side",
+      "year": "1587"
     }
   ]
  }
