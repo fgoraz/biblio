@@ -111,13 +111,13 @@
   ],
   "theatre": [ 
  {
-      "date": "2020-05-11T10:00:00",
+      "date": "",
       "kindof": "theatre",
-      "title": "",
-      "author": "",
-      "resume": "",
-      "editor": "",
-      "year": ""
+      "title": "sherlock holmes",
+      "author": "edgar allan poe",
+      "resume": "sherlock mène l'enquête",
+      "editor": "The guard",
+      "year": "1728"
     }
   ]
  }
