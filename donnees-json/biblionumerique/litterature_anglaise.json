@@ -109,8 +109,16 @@
       "year": "1684"
     }
   ],
-  "poesie": [
-  
+  "poesie": [ 
+ {
+      "date": "",
+      "kindof": "",
+      "title": "",
+      "author": "",
+      "resume": "",
+      "editor": "",
+      "year": ""
+    }
   ]
  }
 }
