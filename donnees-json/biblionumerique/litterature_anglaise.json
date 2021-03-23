@@ -2,8 +2,8 @@
   "books": 
   {
   "roman": [
-    
     {
+	"date":"",
       "kindof": "roman",
       "title": "À la recherche de elgor",
       "author": "elgor",
@@ -12,6 +12,7 @@
       "year": "1984"
     },
     {
+	"date":"",
       "kindof": "roman",
       "title": "À la demeure de mon ex",
       "author": "Marcel Proust",
@@ -20,6 +21,7 @@
       "year": "2007"
     },
     {
+	"date":"",
       "kindof": "roman",
       "title": "ça mrache tu crois ?",
       "author": "V. Hugo",
@@ -28,6 +30,7 @@
       "year": "1927"
     },
     {
+	"date":"",
       "kindof": "roman",
       "title": "Voilà Marseille Proust",
       "author": "Hein Proust",
@@ -36,6 +39,7 @@
       "year": "1913-1927"
     },
     {
+	"date":"",
       "kindof": "roman",
       "title": "Une si longue lettre",
       "author": "Mariama Bâ",
@@ -44,6 +48,7 @@
       "year": "1985"
     },
     {
+	"date":"",
       "kindof": "roman",
       "title": "Ainsi va la vie",
       "author": "Marcel",
@@ -55,6 +60,7 @@
   "fable": [
   
     {
+	"date":"",
       "kindof": "fable",
       "title": "Bravo Paris",
       "author": "elgor",
@@ -63,6 +69,7 @@
       "year": "1982"
     },
     {
+	"date":"",
       "kindof": "fable",
       "title": "Nuit de Sine",
       "author": "Senghor du Sénégal",
@@ -71,6 +78,7 @@
       "year": "1913-1927"
     },
     {
+	"date":"",
       "kindof": "fable",
       "title": "Pierre et le loup",
       "author": "Esope",
@@ -82,6 +90,7 @@
   "poesie": [
   
     {
+	"date":"",
       "kindof": "poesie",
       "title": "Lyre à convention",
       "author": "Conte de Lysle",
@@ -90,6 +99,7 @@
       "year": "1677"
     },
     {
+	"date":"",
       "kindof": "poesie",
       "title": "le tour du monde",
       "author": "jules vernes",
@@ -100,6 +110,7 @@
   ],
   "theatre": [ 
  {
+ "date":"",
       "kindof": "theatre",
       "title": "sherlock holmes",
       "author": "edgar allan poe",
