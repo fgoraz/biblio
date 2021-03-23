@@ -4,7 +4,6 @@
   "roman": [
     
     {
-      "date": "2020-05-10T11:00:00",
       "kindof": "roman",
       "title": "Hopla",
       "author": "elgor",
@@ -13,7 +12,6 @@
       "year": "1984"
     },
     {
-      "date": "2020-05-10T10:00:00",
       "kindof": "roman",
       "title": "Houla",
       "author": "Marcel Proust",
@@ -22,7 +20,6 @@
       "year": "2007"
     },
     {
-      "date": "2020-05-10T10:00:00",
       "kindof": "roman",
       "title": "ça mrache tu crois ?",
       "author": "V. Hugo",
@@ -31,7 +28,6 @@
       "year": "1927"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "roman",
       "title": "Voilà Marseille Proust",
       "author": "Hein Proust",
@@ -40,7 +36,6 @@
       "year": "1913-1927"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "roman",
       "title": "Une si longue lettre",
       "author": "Mariama Bâ",
@@ -49,7 +44,6 @@
       "year": "1985"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "roman",
       "title": "Ainsi va la vie",
       "author": "Marcel",
@@ -61,7 +55,6 @@
   "fable": [
   
     {
-      "date": "2020-05-11T11:00:00",
       "kindof": "fable",
       "title": "Bravo Paris",
       "author": "elgor",
@@ -70,7 +63,6 @@
       "year": "1982"
     },
     {
-      "date": "2020-05-10T10:00:00",
       "kindof": "fable",
       "title": "Nuit de Sine",
       "author": "Senghor du Sénégal",
@@ -79,7 +71,6 @@
       "year": "1913-1927"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "fable",
       "title": "Pierre et le loup",
       "author": "Esope",
@@ -91,7 +82,6 @@
   "poesie": [
   
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "poesie",
       "title": "Lyre à convention",
       "author": "Conte de Lysle",
@@ -100,7 +90,6 @@
       "year": "1677"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "poesie",
       "title": "le tour du monde",
       "author": "jules vernes",
@@ -112,7 +101,6 @@
   "theatre": [
   
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "theatre",
       "title": "le malade imaginaire",
       "author": "molière",
@@ -121,7 +109,6 @@
       "year": "1677"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "theatre",
       "title": "william tell overture",
       "author": "rossini",
