@@ -4,7 +4,6 @@
   "roman": [
     
     {
-      "date": "2020-05-10T11:00:00",
       "kindof": "roman",
       "title": "À la recherche de elgor",
       "author": "elgor",
@@ -13,7 +12,6 @@
       "year": "1984"
     },
     {
-      "date": "2020-05-10T10:00:00",
       "kindof": "roman",
       "title": "À la demeure de mon ex",
       "author": "Marcel Proust",
@@ -22,7 +20,6 @@
       "year": "2007"
     },
     {
-      "date": "2020-05-10T10:00:00",
       "kindof": "roman",
       "title": "ça mrache tu crois ?",
       "author": "V. Hugo",
@@ -31,7 +28,6 @@
       "year": "1927"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "roman",
       "title": "Voilà Marseille Proust",
       "author": "Hein Proust",
@@ -40,7 +36,6 @@
       "year": "1913-1927"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "roman",
       "title": "Une si longue lettre",
       "author": "Mariama Bâ",
@@ -49,7 +44,6 @@
       "year": "1985"
     },
     {
-      "date": "2020-05-11T10:00:00",
       "kindof": "roman",
       "title": "Ainsi va la vie",
       "author": "Marcel",
